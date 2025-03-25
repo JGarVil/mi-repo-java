@@ -1,7 +1,11 @@
-import GUI.Ventana;
+//import GUI.Ventana;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        new Ventana();
+        //java.awt.EventQueue.invokeLater(new Runnable() {
+        //    public void run() {
+        //        new Ventana().setVisible(true);
+        //    }
+        //});
     }
 }
